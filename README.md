@@ -1,4 +1,4 @@
-# Welcome to WanderCraft 🌍✨
+# Welcome to Trip Advisor 🌍✨
 
 This personalized trip itinerary generator is not just an app; it's a travel companion that understands your desires and crafts the perfect adventure. Powered by an LLM model using the incredible Gemini Pro API, WanderCraft transforms your travel dreams into reality. 🗺️
 
